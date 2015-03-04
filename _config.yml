@@ -1,6 +1,6 @@
 name: "SilentNyte"
 description: "my Blog"
-url: http://www.nytz.com
+#url: http://www.nytz.com
 
 permalink: pretty
 pygments: true
