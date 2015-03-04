@@ -1,5 +1,7 @@
 name: "SilentNyte"
 description: "my Blog"
+url: silentnyte.github.io
+#url: http://www.nytz.com
 
 permalink: pretty
 pygments: true
