@@ -3,3 +3,5 @@
 
 export const SITE_TITLE = 'Nytz Blog';
 export const SITE_DESCRIPTION = 'Welcome to my website!';
+export const SITE_AUTHOR = 'SilentNyte';
+export const GITHUB_URL = 'https://github.com/silentnyte/silentnyte.github.io';
